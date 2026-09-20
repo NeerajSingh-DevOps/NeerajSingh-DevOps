@@ -3,7 +3,6 @@
 
 <div align="center">
 
-<!-- "Neeraj Singh" LOGO — upload logo.png once to your repo, it will show here -->
 <img src="https://raw.githubusercontent.com/NeerajSingh-DevOps/NeerajSingh-DevOps/main/logo.png" width="160" alt="Neeraj Singh DevOps"/>
 
 <br/>
