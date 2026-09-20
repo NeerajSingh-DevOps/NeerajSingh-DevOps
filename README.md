@@ -1,100 +1,141 @@
-<div align="center">
+<!-- BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NeerajSingh-DevOps/NeerajSingh-DevOps/main/banner.jpg" alt="Neeraj Singh DevOps Banner" width="100%"/>
+</p>
 
-# 👋 Hi, I'm Neeraj Singh
+<!-- LOGO + NAME -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NeerajSingh-DevOps/NeerajSingh-DevOps/main/logo.png" alt="NS DevOps Logo" width="140"/>
+</p>
 
+<h1 align="center">Hey, I'm Neeraj Singh 👋</h1>
 
-### Cloud & DevOps Engineer | Azure | Terraform | Ex-FinOps
+<p align="center">
+  <b>DevOps Support Engineer @ Genpact &nbsp;|&nbsp; Azure • Terraform • CI/CD &nbsp;|&nbsp; New Delhi, India</b>
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/neeraj-singh-b86424178">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/NeerajSingh-DevOps">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:Nraajsingh55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+## 🚀 About Me
 
-</div>
+I'm a **DevOps Support Engineer with 3 years and 4 months** of hands-on experience at **Genpact**, supporting real production Azure environments for US and UK clients.
 
-<br/>
+**Azure is my core** — infrastructure management, Terraform provisioning, CI/CD pipelines, Git workflows, and Azure Monitor are what I work with every day.
 
-## 👨‍💼 About me
+In parallel, I'm also working as a **DevOps Architect at DevOps Insiders** — building and delivering real infrastructure projects including 3-tier Azure architectures, Terraform modules, and end-to-end CI/CD pipelines.
 
-I'm building hands-on expertise in **Cloud & DevOps Engineering** — working through real Azure infrastructure, Terraform modules, and Linux fundamentals via a structured, hands-on internship. That sits on top of a **detail-first, controls-driven mindset from 5+ years in finance operations**, which I'm now applying to building reliable, well-documented infrastructure.
+Before DevOps, I spent **4 years in finance & accounting** — which gave me something most DevOps engineers don't have: strong process thinking, SLA discipline, and cross-functional client communication.
 
-- ☁️ Hands-on DevOps internship — Azure networking, load balancers, NAT Gateway, Azure Bastion
-- 🏗️ Comfortable with **Terraform** — modules, `for_each`, remote backends
-- 🌱 Currently deepening **Docker** and **Kubernetes**
-- 💼 Also working in finance operations — 5+ yrs in R2R / reconciliation (JD Edwards, AS400, Advanced Excel, Power Query)
-- 🎯 Goal — full-time **DevOps / Cloud Engineer** role in NCR (Delhi · Gurgaon · Noida)
-- 💬 Ask me about — Azure infra basics, Terraform, or transitioning a finance career into tech
+> *"Infrastructure should be boring — because boring means reliable."*
 
-<br/>
+---
 
-## 🛠️ Tech stack
+## ☁️ Core Stack
 
-<div align="center">
+### Cloud & Infrastructure
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=azure,terraform,linux,git,github,githubactions,docker,kubernetes,bash" />
+### IaC & Automation
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br/><br/>
+### CI/CD & Source Control
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<img src="https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/ERP-F76B1C?style=flat-square" />
-<img src="https://img.shields.io/badge/SAP-1F6FEB?style=flat-square" />
-<img src="https://img.shields.io/badge/python-217346?style=flat-square&logo=microsoftexcel&logoColor=green" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=pink" />
+### Containers & OS
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
+---
 
-<br/>
+## 🏗️ What I Work On Daily
 
-## 🚀 Featured repositories
+```
+🔹 Azure Landing Zone     →  Management Groups, RBAC, Policies, Network Topology
+🔹 Terraform (IaC)        →  Modular configs, State Management, Azure Blob Backend
+🔹 CI/CD Pipelines        →  Azure DevOps, GitHub Actions — end-to-end automation
+🔹 Azure Networking       →  VNets, Subnets, NSG, Bastion, NAT Gateway, Load Balancer
+🔹 Monitoring & Alerts    →  Azure Monitor, Log Analytics Workspace, Dashboards
+🔹 Source Control         →  GitFlow, PR Reviews, Branching Strategies, Azure Repos
+🔹 Scripting              →  Bash, Python, Azure CLI for infrastructure automation
+```
 
-| Repository | Focus |
-|---|---|
-| [devOps-Insiders](https://github.com/NeerajSingh-DevOps/devOps-Insiders) | Hands-on DevOps internship project & practice work |
-| [Git---general-DevOps-practice-](https://github.com/NeerajSingh-DevOps/Git---general-DevOps-practice-) | Terraform pre-prod environment setup for Azure VMs |
-| [Devops-Practice](https://github.com/NeerajSingh-DevOps/Devops-Practice) | Azure landing zone practice |
-| [StreamFlix](https://github.com/NeerajSingh-DevOps/StreamFlix) | Practice app used for load-balancer / deployment labs |
+---
 
-<br/>
+## 🏢 Experience Snapshot
 
-## 📈 GitHub stats
+| Company | Role | Period |
+|---|---|---|
+| **Genpact India Pvt. Ltd.** | Sr. DevOps Support Engineer | Jan 2026 – Present |
+| **Genpact India Pvt. Ltd.** | DevOps Support Engineer | Oct 2023 – Dec 2025 |
+| **Genpact India Pvt. Ltd.** | Junior DevOps Support Engineer | Apr 2023 – Sep 2023 |
+| **DevOps Insiders** | DevOps Architect | Nov 2025 – Present |
+| **Internship** | DevOps Engineer Intern | Mar 2022 – Apr 2023 |
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=NeerajSingh-DevOps&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajSingh-DevOps&layout=compact&hide_border=true&theme=tokyonight" width="38%" />
+## 🏆 Certifications & Awards
 
-<br/>
+| Badge | Certification | Issuer |
+|---|---|---|
+| 🏅 | **Best Excellence Award — Bronze Cheers** | Genpact, Apr 2026 |
+| ☁️ | **Microsoft Certified: Linux on Azure (MCSA)** | DevOps Insiders |
+| 🔧 | **Terraform Certification** | DevOps Insiders, Mar 2026 |
+| ☁️ | **AWS DevOps Engineer – Professional** | DevOps Insiders |
+| 🐍 | **Python Programming** | DIGICROME Academy |
+| 📊 | **Microsoft Excel – Advanced** | Great Learning |
+| 🤖 | **ChatGPT & Generative AI** | Great Learning / Genpact EMEA |
+| 📈 | **Power BI – Data Analytics** | Great Learning |
 
-<img src="https://streak-stats.demolab.com/?user=NeerajSingh-DevOps&theme=tokyonight&hide_border=true" width="60%" />
+---
 
-</div>
+## 📊 GitHub Stats
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeerajSingh-DevOps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajSingh-DevOps&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
 
-## 📚 Currently learning
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NeerajSingh-DevOps&theme=tokyonight&hide_border=true" width="55%"/>
+</p>
 
-`Azure` → `Terraform` → `Networking & Security` → `Docker` → `Kubernetes` → `CI/CD`
+---
 
-<br/>
+## 📬 Let's Connect
 
-## 🤝 Let's connect
+I'm open to **DevOps Engineer roles, freelance cloud projects, and Azure infrastructure collaborations.**
 
-<div align="center">
+If you're building something on Azure — let's talk.
 
-Open to DevOps and Cloud Engineer opportunities — happy to talk infrastructure, reconciliation-grade rigor, or both.
-
-<a href="https://www.linkedin.com/in/NeerajSingh-DevOps" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/NeerajSingh-DevOps" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:Nraajsingh55@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<i>⭐ Reconciling ledgers by profession, building infrastructure by passion.</i>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/neeraj-singh-b86424178">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:Nraajsingh55@gmail.com">
+    
