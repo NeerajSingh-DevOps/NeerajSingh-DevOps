@@ -3,8 +3,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NeerajSingh-DevOps/NeerajSingh-DevOps/main/logo.png" width="160" alt="Neeraj Singh DevOps"/>
-
 <br/>
 
 <!-- TYPING ANIMATION — fixed width & text -->
